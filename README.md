@@ -1,6 +1,6 @@
 # HideAppKernel
 
-HideAppKernel allows you to hide applications from streaming from discord and other similar applications for screen capture, like OBS Studio.
+HideAppKernel allows you to hide applications on screen sharing in discord and other similar applications for screen capture, like OBS Studio.
 
 # Usage
 

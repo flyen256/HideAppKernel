@@ -15,4 +15,5 @@ If you got any visual artifacts just press enter it will be refresh menu.
 
 # License
 HideAppKernel - Public Domain
+
 HideAppKernelLib - Public Domain
